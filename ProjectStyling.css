@@ -1,0 +1,46 @@
+/*HTML PROJECT STYLING*/
+h1{
+	color:#FF4500;
+	background-color:#FFFF00;
+}
+header{
+	text-align: center;
+	color:#C71585;
+	background-color:#FFDAB9;
+	font-family:"Comic Sans MS";
+}
+nav{
+	font-size:150%;
+	font-style:italic;
+}
+h2{
+	font-family:"Times New Roman";
+	font-style:oblique;
+	background-color:#9ACD32;
+	font-size:180%;
+	text-align:center;
+}
+section{
+	text-align: justify;
+	font-family:"Comic Sans MS";
+	font-size:120%;
+	background-color:#FFDAB9;
+	border-style: inset;
+	border-width: 5px;
+	border-color:blue;
+	margin:5px;
+}
+details{
+	font-style:italic;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	font-family:"Comic Sans MS";
+	font-size:150%;
+	background-color:#FFFF00;
+}
+img{
+	display:none;
+}
